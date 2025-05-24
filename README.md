@@ -3,7 +3,7 @@
 
 ## Descripción 
 
-Este proyecto utiliza Selenium, Requests y BeautifulSoup para automatizar la extracción de datos desde el sitio web de Fleet Europa de la Unión Europea y el registro nacional de la flota pesquera española. El script automatiza la búsqueda de todos los barcos registrados, navega a través de las páginas de resultados y guarda los datos en un archivo CSV.
+En este proyecto analizamos un conjunto de datos técnico-administrativos de la flota pesquera española desde 1987 hasta 2025, utilizando identificadores únicos para garantizar la trazabilidad de cada buque. El objetivo es estudiar la evolución histórica, estructura y distribución geográfica de la flota, identificando patrones en características como tamaño, potencia, antigüedad y modalidad de pesca, para apoyar la toma de decisiones en gestión, sostenibilidad y modernización del sector pesquero.
 
 ## Estructura del Proyecto
 
