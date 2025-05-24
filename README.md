@@ -17,6 +17,7 @@ Este proyecto utiliza Selenium, Requests y BeautifulSoup para automatizar la ext
     
 - **figues/**: Gráficos de la PR2.
   - `boxplots.png`: Boxplots para la visualizacion de outliers.
+  - `histogramas_frecuencias_esl-arq-pot.png`: Distribución del numero de buque por caracteristicas tecnicas del buque.
   - `histogramas_edadbuque.png`: Distribución del numero de buques por edad.
   - `lineplot_evolucion_esl-arq-pot.png`: Evolución temporal de las caracteristicas tecnicas del buque.
   - `correlacion_heatmap.png`: Matriz de correlacion de las variables numericas.
@@ -24,6 +25,8 @@ Este proyecto utiliza Selenium, Requests y BeautifulSoup para automatizar la ext
   - Grafico modelo
   - ...
 
+- **output/**: Gráficos de la PR2.
+  - `modelo_supervisado.pkl`: Arhico pkl del modelo.
 
 - **src/**: Código fuente.
   - `limpieza-analisis_datos.ipynb`: Jupyter notebook de pruebas.
@@ -68,9 +71,11 @@ Este proyecto utiliza Selenium, Requests y BeautifulSoup para automatizar la ext
     - ...
 
 
-
-
 ## Principales resultados y conclusiones
 
+1. Se observa una modernización de la flota pesquera española en los ultimos 10-15 años, con la creación de buques nuevos con mayor tamaño y potencia, así como incorporaciones recientes a la flota. Sin embargo, muchos buques presentan una edad mayor a 30 años de servicio resaltando el envejecimiento de la flota.
 
+2. Las variables eslora, arqueo y potencia presentan distribuciones sesgadas a la derecha: la mayoría son buques pequeños, pero hay algunos casos extremos.  Esto resalta la importancia de los buques de pequeña eslora en relación al tamaño de la flota pesquera española.
+
+3. Las variables eslora, arqueo y potencia están relacionadas de forma coherente, validando tanto los datos como la imputación.
 

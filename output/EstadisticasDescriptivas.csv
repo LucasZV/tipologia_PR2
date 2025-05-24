@@ -1,0 +1,15 @@
+Column,Data Type,Null Count,Unique Values,Shape,mean,std,min,25%,50%,75%,max,Date Min,Date Max
+cfr,object,0,27364,"27364 rows, 14 columns",,,,,,,,,
+nombre,object,0,19587,"27364 rows, 14 columns",,,,,,,,,
+fc_alta_rgfp,datetime64[ns],0,2538,"27364 rows, 14 columns",,,,,,,,1987-12-31,2025-03-25
+eslora_total,float64,0,3922,"27364 rows, 14 columns",11.50092944306603,9.85526849897531,1.0,5.35,7.6,14.0,116.0,,
+arqueo_gt,float64,0,6852,"27364 rows, 14 columns",45.45742042534293,179.32400862630297,0.1,0.94,2.3,18.01,4406.0,,
+material_casco,object,0,8,"27364 rows, 14 columns",,,,,,,,,
+potencia_kw,float64,0,3025,"27364 rows, 14 columns",107.84478837284841,262.28614978924594,0.74,10.3,22.06,94.14,5851.63,,
+estado_rgfp,object,0,4,"27364 rows, 14 columns",,,,,,,,,
+fc_estado,datetime64[ns],0,5055,"27364 rows, 14 columns",,,,,,,,1987-12-31,2025-04-02
+Puerto,object,0,287,"27364 rows, 14 columns",,,,,,,,,
+Provincia,object,0,24,"27364 rows, 14 columns",,,,,,,,,
+Comunidad Autónoma,object,0,12,"27364 rows, 14 columns",,,,,,,,,
+Tipo de Arte,object,0,7,"27364 rows, 14 columns",,,,,,,,,
+Edad_buque,int64,0,38,"27364 rows, 14 columns",17.309128782341762,10.439923342714405,0.0,9.0,16.0,24.0,37.0,,
