@@ -55,20 +55,35 @@ En este proyecto analizamos un conjunto de datos técnico-administrativos de la 
 - Enriquecimiento y análisis exploratorio inicial
     - Creación de la variable ‘edad_buque’
         - Distribución de los buques por su edad
-    - Evolución temporal de la eslora, arqueo y potencia de los buques
+    - Evolución temporal de la eslora, arqueo, potencia y material del cascco de los buques
     - Distribución en las columnas numéricas
     - Correlaciones
 
 ## Pasos seguidos en análisis:
 
-- Modelo 1
-    - Transformaciones
-    - Otros
-    - ...
-- Modelo 2
-    - Transformaciones
-    - Otros
-    - ...
+- Modelo supervisado (clasificación)
+    - Normalización de las variables numéricas
+    - Estandarizado de variables numéricas
+    - Codificación de variables categóricas
+    - Eliminación de identificadores y columnas no relevantes
+    - Entrenamiento de 4 modelos base
+    - Optimización del mejor modelo
+    - Diagnosisi del modelo
+    - Modelado redes neuronales densas (deep learning)
+    - Comparativa de modelos
+    - Representación de resultados y errores
+  
+- Modelo no supervisado (clustering)
+    - Eliminación de columnas no relevantes
+    - Estandarizado de variables numéricas
+    - Codificación de variables categóricas
+    - Generación de clusters (KNN)
+    - Diagnosis del modelo
+    - Representación de resultados
+
+- Contraste de hipótesis:
+    - Comunidad autónoma vs arte de pesca
+    - Eslora vs arte de pesca
 
 
 ## Principales resultados y conclusiones
@@ -78,4 +93,14 @@ En este proyecto analizamos un conjunto de datos técnico-administrativos de la 
 2. Las variables eslora, arqueo y potencia presentan distribuciones sesgadas a la derecha: la mayoría son buques pequeños, pero hay algunos casos extremos.  Esto resalta la importancia de los buques de pequeña eslora en relación al tamaño de la flota pesquera española.
 
 3. Las variables eslora, arqueo y potencia están relacionadas de forma coherente, validando tanto los datos como la imputación.
+
+4. El tipo de pesca tiene dependencia de la comunidad autónoma en la que está registrado el buque.
+
+5. El tamaño del buque está relacionado con el tipo de pesca que realiza.
+
+6. El modelo supervisado logra clasificar el buque según si tipo de arte de pesca con una sensibilidad media del 71% y un f1-score de 86%.
+
+7. El modelo no supervisado divide la flota según sus características técnicas en 11 grupos diferenciados con un Silhouette Score de 0.4, habiendo cierto solapamiento en los grupos de buques más pequeños pero con buena diferenciación de los buques medianos y grandes.
+
+
 
