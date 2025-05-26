@@ -13934,7 +13934,7 @@ ESP000021753,MANSO,1990-07-04,5.75,0.74,Madera,7.35,Baja Definitiva,2008-07-03,C
 ESP000021754,MARIA TERESA TERCERO,1990-06-27,13.4,13.7,Madera,102.97,Baja Definitiva,2011-07-19,Redondela,Pontevedra,Galicia,Cerco,21
 ESP000021756,PASCUAL Y TERESA,1991-02-04,23.0,68.74,Madera,176.52,Baja Definitiva,2001-10-02,Santa Pola,Alicante,Comunitat Valenciana,Artes menores,10
 ESP000021757,GURE ALKARTASUNA,1990-10-08,20.05,65.0,Madera,132.39,Baja Definitiva,2012-02-14,Bermeo,Bizkaia,País Vasco,Artes menores,21
-ESP000021759,CANTALAR,1990-06-04,23.32,108.66,Madera,301.5,Alta Definitiva,1990-06-04,Altea,Alicante,Comunitat Valenciana,Arrastre,34
+ESP000021759,CANTALAR,1990-06-04,23.32,108.66,Madera,301.5,Alta Definitiva,1990-06-04,Altea,Alicante,Comunitat Valenciana,Arrastre,35
 ESP000021760,JACOBO Y RUBEN,1992-10-01,13.7,12.14,Madera,94.14,Baja Definitiva,2009-09-16,Tarifa,Cádiz,Andalucía,Artes menores,16
 ESP000021761,ANGELITA I,1990-10-19,14.65,19.98,Madera,158.13,Baja Definitiva,2006-04-03,Rosas,Girona,Cataluña,Cerco,15
 ESP000021764,PEÑA REBOLLERA,1990-09-25,23.5,115.83,Acero,279.49,Baja Definitiva,2001-12-05,Cariño,A Coruña,Galicia,Palangre,11
@@ -14576,7 +14576,7 @@ ESP000022559,SEGUNDO DORADA,1993-06-01,11.19,9.24,Madera,94.12,Alta Definitiva,1
 ESP000022560,L'HAVANERA,1993-06-01,16.5,22.38,Poliester,89.71,Alta Definitiva,1993-06-01,Palamós,Girona,Cataluña,Arrastre,32
 ESP000022561,RAFAEL Y ANITA,1993-06-01,16.84,59.19,Madera,58.84,Baja Definitiva,2010-10-05,Málaga,Málaga,Andalucía,Arrastre,17
 ESP000022562,GRAN LOBA,1993-06-01,6.66,1.14,Madera,21.33,Baja Definitiva,2020-02-19,Sitges,Barcelona,Cataluña,Artes menores,26
-ESP000022563,PUERTO DE FIGUERAS,1993-06-03,24.7,131.58,Acero,202.21,Alta Definitiva,1993-06-03,Burela,Lugo,Galicia,Palangre,31
+ESP000022563,PUERTO DE FIGUERAS,1993-06-03,24.7,131.58,Acero,202.21,Alta Definitiva,1993-06-03,Burela,Lugo,Galicia,Palangre,32
 ESP000022564,QUICO CUATRO,1993-07-13,11.53,8.97,Madera,62.5,Alta Definitiva,1993-07-13,Vigo,Pontevedra,Galicia,Artes menores,31
 ESP000022565,ANCRISU,1993-06-04,24.7,132.0,Acero,295.67,Baja Definitiva,2010-09-24,Burela,Lugo,Galicia,Palangre,17
 ESP000022566,URANO SEGUNDO,1993-06-11,12.4,14.29,Madera,29.42,Baja Definitiva,2015-10-09,Puerto del Son,A Coruña,Galicia,Artes menores,22
@@ -14802,7 +14802,7 @@ ESP000022814,PLAYA DE MARBELLA,1994-05-31,19.0,74.19,Madera,100.03,Baja Definiti
 ESP000022815,OLVEIRA DOS,1994-05-31,10.03,7.55,Madera,36.03,Alta Definitiva,1994-05-31,Cambados,Pontevedra,Galicia,Artes menores,31
 ESP000022816,NUEVO CHUCHI,1994-05-31,7.8,4.21,Poliester,25.0,Alta Definitiva,1994-05-31,Pasajes,Gipuzkoa,País Vasco,Artes menores,31
 ESP000022817,EL PORTUGUES,1994-05-31,9.0,6.25,Madera,36.04,Baja Definitiva,2012-07-11,Tarifa,Cádiz,Andalucía,Artes menores,18
-ESP000022818,SIEMPRE BALUARTE,1994-06-03,22.0,108.0,Acero,378.68,Alta Definitiva,1994-06-03,Aviles,Asturias,Asturias,Palangre,30
+ESP000022818,SIEMPRE BALUARTE,1994-06-03,22.0,108.0,Acero,378.68,Alta Definitiva,1994-06-03,Aviles,Asturias,Asturias,Palangre,31
 ESP000022819,LIBERIANA,1994-06-08,6.35,1.19,Madera,19.12,Baja Definitiva,2007-04-02,Burela,Lugo,Galicia,Artes menores,12
 ESP000022822,LEIXON,1994-06-08,8.9,2.85,Madera,15.45,Baja Definitiva,2018-05-21,Ribadeo,Lugo,Galicia,Artes menores,23
 ESP000022823,ROCA,1994-06-13,5.65,1.33,Poliester,18.38,Alta Definitiva,1994-06-13,Santa Eugenia de Riveira,A Coruña,Galicia,Artes menores,30
@@ -15437,15 +15437,15 @@ ESP000023506,NOVO SAUDADE,1997-05-28,32.0,292.0,Acero,358.92,Baja Definitiva,201
 ESP000023507,XIROTE,1997-05-28,12.1,8.94,Madera,54.41,Alta Definitiva,1997-05-28,Lorbe,A Coruña,Galicia,Artes menores,28
 ESP000023508,MARIA LUISA PRIMERA,1997-05-28,5.9,1.64,Madera,9.56,Baja Definitiva,2007-09-11,Carreira-Aguiño,A Coruña,Galicia,Artes menores,10
 ESP000023509,PUERTO DE RIBEIRA,1997-05-29,27.0,187.99,Acero,250.07,Baja Definitiva,2003-09-22,Santa Eugenia de Riveira,A Coruña,Galicia,Desconocido,6
-ESP000023510,ANZOL,1997-06-02,14.5,21.63,Acero,44.12,Alta Definitiva,1997-06-02,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,27
-ESP000023511,PARANA,1997-06-02,6.4,2.2,Poliester,5.88,Alta Definitiva,1997-06-02,Rianjo,A Coruña,Galicia,Artes menores,27
-ESP000023512,COSTA CORDAL,1997-06-02,20.0,51.62,Acero,242.65,Alta Definitiva,1997-06-02,Camariñas,A Coruña,Galicia,Cerco,27
+ESP000023510,ANZOL,1997-06-02,14.5,21.63,Acero,44.12,Alta Definitiva,1997-06-02,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,28
+ESP000023511,PARANA,1997-06-02,6.4,2.2,Poliester,5.88,Alta Definitiva,1997-06-02,Rianjo,A Coruña,Galicia,Artes menores,28
+ESP000023512,COSTA CORDAL,1997-06-02,20.0,51.62,Acero,242.65,Alta Definitiva,1997-06-02,Camariñas,A Coruña,Galicia,Cerco,28
 ESP000023513,FEBEL PRIMERO,1997-05-30,26.5,192.87,Acero,316.26,Baja Definitiva,2010-05-31,Punta Umbria,Huelva,Andalucía,Arrastre,13
 ESP000023514,PEIX MAR VEINTE,1997-05-30,30.1,243.09,Acero,367.75,Baja Definitiva,2000-03-14,Huelva,Huelva,Andalucía,Desconocido,2
 ESP000023515,PINZON PESCA,1997-05-30,27.1,203.2,Acero,367.75,Baja Definitiva,2009-08-18,Ceuta,Ceuta,Ceuta,Arrastre,12
-ESP000023516,SONAI,1997-06-02,5.9,1.32,Poliester,8.82,Alta Definitiva,1997-06-02,Lira-Carnota,A Coruña,Galicia,Artes menores,27
-ESP000023517,MADRE PILAR,1997-06-02,20.5,62.3,Acero,58.82,Alta Definitiva,2000-04-18,Ondarroa,Bizkaia,País Vasco,Palangre,27
-ESP000023518,SIEMPRE ESMERALDA,1997-06-02,16.0,27.27,Acero,80.88,Alta Definitiva,2000-05-10,San Vicente de la Barquera,Cantabria,Cantabria,Artes menores,27
+ESP000023516,SONAI,1997-06-02,5.9,1.32,Poliester,8.82,Alta Definitiva,1997-06-02,Lira-Carnota,A Coruña,Galicia,Artes menores,28
+ESP000023517,MADRE PILAR,1997-06-02,20.5,62.3,Acero,58.82,Alta Definitiva,2000-04-18,Ondarroa,Bizkaia,País Vasco,Palangre,28
+ESP000023518,SIEMPRE ESMERALDA,1997-06-02,16.0,27.27,Acero,80.88,Alta Definitiva,2000-05-10,San Vicente de la Barquera,Cantabria,Cantabria,Artes menores,28
 ESP000023519,HERBADI UNO,1997-06-02,34.5,337.0,Acero,358.92,Baja Definitiva,2010-09-10,Vigo,Pontevedra,Galicia,Arrastre,13
 ESP000023520,YOLANDA CUARTA,1997-06-04,12.31,10.08,Poliester,40.44,Alta Definitiva,1997-06-04,Castro Urdiales,Cantabria,Cantabria,Artes menores,27
 ESP000023521,ALCALDE UNO,1997-06-04,28.0,169.4,Acero,262.5,Baja Definitiva,2024-07-15,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Canarias,Palangre,27
@@ -16119,11 +16119,11 @@ ESP000024219,SEGUNDO CATANO,1999-05-31,13.43,15.72,Poliester,55.94,Alta Definiti
 ESP000024220,FIDEL Y ROSITA,1999-05-31,20.53,39.33,Poliester,220.59,Alta Definitiva,1999-05-31,Blanes,Girona,Cataluña,Cerco,26
 ESP000024221,FAMILIA PALAUS,1999-05-31,20.38,39.48,Poliester,154.41,Alta Definitiva,1999-05-31,Blanes,Girona,Cataluña,Cerco,26
 ESP000024222,PADILLA ANAIAK,1999-05-31,11.3,6.94,Poliester,29.41,Alta Definitiva,1999-05-31,Fuenterrabia,Gipuzkoa,País Vasco,Artes menores,26
-ESP000024223,ROXINA,1999-06-01,8.2,1.89,Poliester,33.09,Baja Provisional,2024-05-03,Cudillero,Asturias,Asturias,Artes menores,25
+ESP000024223,ROXINA,1999-06-01,8.2,1.89,Poliester,33.09,Baja Provisional,2024-05-03,Cudillero,Asturias,Asturias,Artes menores,26
 ESP000024224,NUEVO SAN JUAN,1999-06-01,31.5,320.0,Acero,623.53,Baja Definitiva,2024-03-06,Burela,Lugo,Galicia,Artes fijas,24
-ESP000024225,NUEVO JESUS JOSE,1999-06-01,11.75,8.34,Acero,77.94,Alta Definitiva,2001-03-21,Puerto de Vega,Asturias,Asturias,Artes menores,25
+ESP000024225,NUEVO JESUS JOSE,1999-06-01,11.75,8.34,Acero,77.94,Alta Definitiva,2001-03-21,Puerto de Vega,Asturias,Asturias,Artes menores,26
 ESP000024227,INMACULADA SEGUNDO,1999-06-01,21.5,94.33,Acero,125.03,Baja Definitiva,2014-04-11,Cedeira,A Coruña,Galicia,Artes fijas,14
-ESP000024228,MIRANDO O MAR,1999-06-01,27.0,102.5,Acero,250.0,Alta Definitiva,2001-05-24,Foz,Lugo,Galicia,Cerco,25
+ESP000024228,MIRANDO O MAR,1999-06-01,27.0,102.5,Acero,250.0,Alta Definitiva,2001-05-24,Foz,Lugo,Galicia,Cerco,26
 ESP000024229,EUGENIO TERCERO,1999-06-10,17.0,60.0,Acero,69.87,Baja Definitiva,2015-12-15,Malpica de Bergantiños,A Coruña,Galicia,Artes fijas,16
 ESP000024231,ROSMARI PRIMERO,1999-06-10,22.7,59.79,Poliester,191.18,Alta Definitiva,1999-06-10,San Carlos de la Rápita,Tarragona,Cataluña,Arrastre,25
 ESP000024232,BRISAS DE OVIÑANA,1999-06-10,12.6,12.45,Acero,80.88,Alta Definitiva,2001-04-06,Oviñana,Asturias,Asturias,Artes menores,25
@@ -16440,11 +16440,11 @@ ESP000024571,PUNTA DE'S VENT,2000-05-25,22.05,58.83,Poliester,268.4,Alta Definit
 ESP000024572,NOU KIKO,2000-05-25,7.33,1.85,Poliester,22.06,Baja Definitiva,2006-11-27,Pollensa,Illes balears,Illes balears,Artes menores,6
 ESP000024573,XUGOS,2000-05-25,7.98,2.26,Poliester,47.79,Alta Definitiva,2001-03-16,Lastres,Asturias,Asturias,Artes menores,25
 ESP000024574,CONCEPCION MADRE,2000-05-26,21.58,57.02,Acero,161.81,Baja Definitiva,2017-12-29,La Coruña,A Coruña,Galicia,Cerco,17
-ESP000024575,SOLER MOLINA,2000-05-31,24.14,92.0,Poliester,367.65,Alta Definitiva,2001-05-22,Santa Pola,Alicante,Comunitat Valenciana,Arrastre,24
-ESP000024576,BALEA UNO,2000-06-01,8.9,4.82,Poliester,36.03,Alta Definitiva,2000-06-01,La Guardia,Pontevedra,Galicia,Artes menores,24
-ESP000024577,NUEVA MAEVA,2000-06-01,10.5,6.19,Acero,61.03,Alta Definitiva,2001-10-30,Luanco,Asturias,Asturias,Artes menores,24
-ESP000024578,NUEVO AMANECER UNO,2000-06-01,20.66,70.52,Poliester,202.2,Alta Definitiva,2002-02-18,Isla Cristina,Huelva,Andalucía,Arrastre,24
-ESP000024579,HALCON DOS,2000-06-01,12.0,8.9,Poliester,52.94,Alta Definitiva,2000-06-01,Puerto del Son,A Coruña,Galicia,Artes menores,24
+ESP000024575,SOLER MOLINA,2000-05-31,24.14,92.0,Poliester,367.65,Alta Definitiva,2001-05-22,Santa Pola,Alicante,Comunitat Valenciana,Arrastre,25
+ESP000024576,BALEA UNO,2000-06-01,8.9,4.82,Poliester,36.03,Alta Definitiva,2000-06-01,La Guardia,Pontevedra,Galicia,Artes menores,25
+ESP000024577,NUEVA MAEVA,2000-06-01,10.5,6.19,Acero,61.03,Alta Definitiva,2001-10-30,Luanco,Asturias,Asturias,Artes menores,25
+ESP000024578,NUEVO AMANECER UNO,2000-06-01,20.66,70.52,Poliester,202.2,Alta Definitiva,2002-02-18,Isla Cristina,Huelva,Andalucía,Arrastre,25
+ESP000024579,HALCON DOS,2000-06-01,12.0,8.9,Poliester,52.94,Alta Definitiva,2000-06-01,Puerto del Son,A Coruña,Galicia,Artes menores,25
 ESP000024580,ANDREKALA BERRIA,2000-06-02,29.0,254.0,Acero,367.65,Alta Definitiva,2002-01-09,Ondarroa,Bizkaia,País Vasco,Arrastre,24
 ESP000024581,PEDRIÑABLANCA,2000-06-02,28.37,222.0,Acero,446.69,Alta Definitiva,2002-06-04,Cariño,A Coruña,Galicia,Artes fijas,24
 ESP000024582,NUEVO CORDOBES,2000-06-05,15.15,26.86,Poliester,36.77,Baja Definitiva,2009-11-11,Garrucha,Almería,Andalucía,Artes menores,9
@@ -16752,10 +16752,10 @@ ESP000024939,MONSOLIU,2001-05-28,18.12,35.4,Poliester,66.0,Alta Definitiva,2001-
 ESP000024940,PHILADELFIA,2001-05-28,9.0,2.12,Poliester,6.62,Alta Definitiva,2002-06-28,Gijon,Asturias,Asturias,Artes menores,24
 ESP000024941,LERO,2001-05-28,8.62,2.91,Poliester,47.79,Alta Definitiva,2001-09-05,Guardamar del Segura,Alicante,Comunitat Valenciana,Artes menores,24
 ESP000024942,FESTEIRO,2001-05-28,64.7,1387.0,Acero,1341.91,Alta Definitiva,2002-02-06,Las Palmas - Puerto de la Luz,Las Palmas,Canarias,Arrastre,24
-ESP000024943,DOMINGO REYES,2001-06-01,15.7,23.21,Poliester,102.9,Alta Definitiva,2002-11-08,Isla Cristina,Huelva,Andalucía,Cerco,23
-ESP000024944,MAR CHAN UN,2001-06-01,7.03,1.45,Madera,7.35,Alta Definitiva,2001-06-01,Santa Eugenia de Riveira,A Coruña,Galicia,Artes menores,23
-ESP000024945,DOS NORTE,2001-06-01,10.0,3.76,Madera,33.82,Alta Definitiva,2001-09-05,Vigo,Pontevedra,Galicia,Cerco,23
-ESP000024946,BETI ZERUKO IZARRA,2001-06-01,16.0,25.7,Poliester,84.56,Alta Definitiva,2001-11-05,Bermeo,Bizkaia,País Vasco,Artes menores,23
+ESP000024943,DOMINGO REYES,2001-06-01,15.7,23.21,Poliester,102.9,Alta Definitiva,2002-11-08,Isla Cristina,Huelva,Andalucía,Cerco,24
+ESP000024944,MAR CHAN UN,2001-06-01,7.03,1.45,Madera,7.35,Alta Definitiva,2001-06-01,Santa Eugenia de Riveira,A Coruña,Galicia,Artes menores,24
+ESP000024945,DOS NORTE,2001-06-01,10.0,3.76,Madera,33.82,Alta Definitiva,2001-09-05,Vigo,Pontevedra,Galicia,Cerco,24
+ESP000024946,BETI ZERUKO IZARRA,2001-06-01,16.0,25.7,Poliester,84.56,Alta Definitiva,2001-11-05,Bermeo,Bizkaia,País Vasco,Artes menores,24
 ESP000024947,OTZARRI BERRIA,2001-06-04,25.0,85.0,Acero,308.82,Alta Definitiva,2002-12-09,Bermeo,Bizkaia,País Vasco,Palangre,23
 ESP000024948,BERRIZ AMATXO,2001-06-04,21.0,59.0,Poliester,268.4,Alta Definitiva,2001-12-13,Laredo,Cantabria,Cantabria,Artes fijas,23
 ESP000024949,IVAN NORES,2001-06-05,49.37,638.0,Acero,721.0,Alta Definitiva,2002-01-09,Las Palmas - Puerto de la Luz,Las Palmas,Canarias,Arrastre,23
@@ -17610,13 +17610,13 @@ ESP000025944,PAPA CHANO,2004-05-25,7.38,2.55,Poliester,25.0,Alta Definitiva,2004
 ESP000025945,GURE AMETXA,2004-05-25,14.6,16.42,Poliester,108.85,Alta Definitiva,2005-07-21,Ondarroa,Bizkaia,País Vasco,Artes menores,21
 ESP000025946,ESMERALDA TERCERO,2004-05-27,20.0,50.52,Acero,147.06,Alta Definitiva,2005-10-17,Oviñana,Asturias,Asturias,Palangre,21
 ESP000025949,COYO CUARTO,2004-05-27,28.0,214.02,Acero,367.75,Baja Definitiva,2015-12-10,Santa Eugenia de Riveira,A Coruña,Galicia,Arrastre,11
-ESP000025950,DEIANECS,2004-05-31,12.8,8.7,Poliester,88.24,Alta Definitiva,2021-09-30,Puerto de Sóller,Illes balears,Illes balears,Palangre,20
+ESP000025950,DEIANECS,2004-05-31,12.8,8.7,Poliester,88.24,Alta Definitiva,2021-09-30,Puerto de Sóller,Illes balears,Illes balears,Palangre,21
 ESP000025951,GABI I JOAN,2004-05-31,13.3,14.35,Poliester,152.98,Baja Definitiva,2013-03-15,Port de la Selva,Girona,Cataluña,Palangre,8
-ESP000025952,PEDRA DA GRELO,2004-05-31,35.35,275.0,Acero,308.82,Alta Definitiva,2005-10-27,Vigo,Pontevedra,Galicia,Palangre,20
-ESP000025953,FIGUERAS,2004-05-31,8.1,2.11,Poliester,22.06,Alta Definitiva,2004-06-15,Vilanova y la Geltrú,Barcelona,Cataluña,Artes menores,20
-ESP000025954,OS LELUCHOS,2004-05-31,11.0,6.75,Poliester,36.03,Alta Definitiva,2004-05-31,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,20
-ESP000025955,EIRADO DO COSTAL,2004-05-31,71.86,1499.0,Acero,1728.38,Alta Definitiva,2005-07-04,Cangas,Pontevedra,Galicia,Arrastre,20
-ESP000025956,EL CUCHARON,2004-05-31,26.11,110.01,Poliester,222.06,Alta Definitiva,2004-10-01,Santa Pola,Alicante,Comunitat Valenciana,Arrastre,20
+ESP000025952,PEDRA DA GRELO,2004-05-31,35.35,275.0,Acero,308.82,Alta Definitiva,2005-10-27,Vigo,Pontevedra,Galicia,Palangre,21
+ESP000025953,FIGUERAS,2004-05-31,8.1,2.11,Poliester,22.06,Alta Definitiva,2004-06-15,Vilanova y la Geltrú,Barcelona,Cataluña,Artes menores,21
+ESP000025954,OS LELUCHOS,2004-05-31,11.0,6.75,Poliester,36.03,Alta Definitiva,2004-05-31,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,21
+ESP000025955,EIRADO DO COSTAL,2004-05-31,71.86,1499.0,Acero,1728.38,Alta Definitiva,2005-07-04,Cangas,Pontevedra,Galicia,Arrastre,21
+ESP000025956,EL CUCHARON,2004-05-31,26.11,110.01,Poliester,222.06,Alta Definitiva,2004-10-01,Santa Pola,Alicante,Comunitat Valenciana,Arrastre,21
 ESP000025957,GEMA Y MODE,2004-06-03,19.25,35.37,Poliester,144.12,Alta Definitiva,2005-04-05,Isla Cristina,Huelva,Andalucía,Arrastre,20
 ESP000025958,JOTA Y A,2004-06-03,23.3,80.0,Poliester,170.59,Alta Definitiva,2005-07-14,Motril,Granada,Andalucía,Arrastre,20
 ESP000025959,GERMANS TRISCA,2004-06-04,21.5,70.04,Poliester,294.85,Alta Definitiva,2004-09-30,San Carlos de la Rápita,Tarragona,Cataluña,Arrastre,20
@@ -18208,7 +18208,7 @@ ESP000026679,CADRADO,2006-05-29,12.58,10.32,Acero,58.09,Alta Definitiva,2006-07-
 ESP000026680,ANTONIO EL COMETIERRA,2006-05-29,17.75,41.0,Poliester,125.0,Alta Definitiva,2006-09-25,Águilas,Murcia,Murcia,Arrastre,19
 ESP000026681,O XILGUEIRO,2006-05-29,14.0,14.1,Acero,117.65,Alta Definitiva,2007-09-05,Cillero,Lugo,Galicia,Artes menores,19
 ESP000026682,EIXIL,2006-05-29,32.75,292.8,Acero,367.75,Alta Definitiva,2014-07-04,Cillero,Lugo,Galicia,Artes fijas,19
-ESP000026683,KOASTA,2006-05-31,8.04,2.66,Poliester,29.42,Alta Definitiva,2006-11-08,Guetaria,Gipuzkoa,País Vasco,Artes menores,18
+ESP000026683,KOASTA,2006-05-31,8.04,2.66,Poliester,29.42,Alta Definitiva,2006-11-08,Guetaria,Gipuzkoa,País Vasco,Artes menores,19
 ESP000026684,CABALIÑO,2006-06-02,11.49,7.55,Madera,69.87,Alta Definitiva,2006-07-18,Burela,Lugo,Galicia,Artes menores,18
 ESP000026686,EVA Y MIGUEL,2006-06-05,14.96,23.63,Poliester,140.0,Alta Definitiva,2007-02-01,Sanlucar De Barrameda,Cádiz,Andalucía,Artes menores,18
 ESP000026687,CABO BUENA ESPERANZA,2006-06-07,14.0,13.71,Poliester,88.32,Alta Definitiva,2007-03-05,Punta Umbria,Huelva,Andalucía,Artes menores,18
@@ -18439,7 +18439,7 @@ ESP000026953,ZOE,2007-05-21,6.25,1.5,Poliester,14.71,Alta Definitiva,2007-07-12,
 ESP000026954,FANEKO,2007-05-21,9.5,3.86,Fibra de Vidrio/Plástico,36.76,Alta Definitiva,2008-01-11,Panjón,Pontevedra,Galicia,Artes menores,18
 ESP000026955,ELENA Y VANESA,2007-05-28,7.97,0.77,Poliester,11.03,Alta Definitiva,2023-03-31,Isla Cristina,Huelva,Andalucía,Artes menores,18
 ESP000026956,BREOGAN TRES,2007-05-28,32.0,336.0,Acero,529.41,Alta Definitiva,2008-11-24,Burela,Lugo,Galicia,Artes fijas,18
-ESP000026957,GASOLINA DOS,2007-05-31,9.7,4.84,Poliester,74.0,Alta Definitiva,2007-05-31,Tazacorte,Santa Cruz de Tenerife,Canarias,Artes menores,17
+ESP000026957,GASOLINA DOS,2007-05-31,9.7,4.84,Poliester,74.0,Alta Definitiva,2007-05-31,Tazacorte,Santa Cruz de Tenerife,Canarias,Artes menores,18
 ESP000026958,AVI MARTINET,2007-06-04,9.02,3.03,Fibra de Vidrio/Plástico,47.06,Alta Definitiva,2019-09-03,Estartit,Girona,Cataluña,Artes menores,17
 ESP000026959,LUPITA PRIMERO,2007-06-04,9.0,1.78,Poliester,20.6,Alta Definitiva,2008-01-28,Isla Cristina,Huelva,Andalucía,Artes menores,17
 ESP000026960,MI MANUELA,2007-06-04,16.5,19.0,Poliester,94.12,Alta Definitiva,2008-01-22,Chipiona,Cádiz,Andalucía,Arrastre,17
@@ -18566,7 +18566,7 @@ ESP000027132,NUEVO HERMANOS SANCHEZ,2008-05-26,7.6,1.43,Poliester,21.32,Alta Def
 ESP000027133,MERON,2008-05-26,8.09,2.03,Poliester,12.5,Alta Definitiva,2008-10-24,Tazones,Asturias,Asturias,Artes menores,17
 ESP000027134,PASTOR RUIZ,2008-05-26,9.0,2.16,Poliester,22.06,Alta Definitiva,2009-02-02,Velez-Malaga,Málaga,Andalucía,Artes menores,17
 ESP000027135,LOS TRES QUINTEROS,2008-05-27,9.7,4.86,Poliester,73.53,Alta Definitiva,2008-06-26,Caleta del Sebo,Las Palmas,Canarias,Artes menores,17
-ESP000027137,MULTIMAR,2008-05-30,9.48,4.26,Poliester,73.53,Alta Definitiva,2008-06-26,Caleta del Sebo,Las Palmas,Canarias,Artes menores,16
+ESP000027137,MULTIMAR,2008-05-30,9.48,4.26,Poliester,73.53,Alta Definitiva,2008-06-26,Caleta del Sebo,Las Palmas,Canarias,Artes menores,17
 ESP000027138,ROSA LOS VIENTOS,2008-06-03,13.2,12.0,Acero,77.21,Alta Definitiva,2009-03-09,Cudillero,Asturias,Asturias,Artes menores,16
 ESP000027139,SEPIA C,2008-06-04,7.4,2.1,Poliester,13.97,Baja Definitiva,2015-11-20,Finisterre,A Coruña,Galicia,Artes menores,7
 ESP000027141,NUEVO MADRE DOLORES,2008-06-06,13.2,12.0,Acero,55.15,Alta Definitiva,2009-03-09,Cedeira,A Coruña,Galicia,Palangre,16
@@ -18835,7 +18835,7 @@ ESP000027513,DOLO,2013-05-06,6.5,1.88,Poliester,18.38,Alta Definitiva,2013-05-28
 ESP000027514,CHUPITO,2013-05-10,6.74,1.74,Poliester,11.03,Alta Definitiva,2013-05-10,Camariñas,A Coruña,Galicia,Artes menores,12
 ESP000027516,AROAMAR,2013-05-21,11.15,5.48,Poliester,36.76,Baja Definitiva,2024-11-13,Puerto del Son,A Coruña,Galicia,Artes menores,11
 ESP000027517,SARA UN,2013-05-24,5.92,1.5,Poliester,18.38,Alta Definitiva,2014-05-14,Luanco,Asturias,Asturias,Artes menores,12
-ESP000027518,CARMEN JOSE,2013-05-28,6.75,1.9,Poliester,18.38,Alta Definitiva,2014-10-22,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,11
+ESP000027518,CARMEN JOSE,2013-05-28,6.75,1.9,Poliester,18.38,Alta Definitiva,2014-10-22,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,12
 ESP000027519,MAR DE AROSA,2013-06-06,6.5,2.34,Poliester,20.59,Alta Definitiva,2013-08-27,Cambados,Pontevedra,Galicia,Artes menores,11
 ESP000027521,DONETO,2013-06-07,16.0,24.8,Poliester,117.0,Alta Definitiva,2013-11-11,Muros,A Coruña,Galicia,Artes menores,11
 ESP000027522,MONTSENY,2013-06-17,23.9,74.16,Poliester,360.0,Alta Definitiva,2014-11-03,Rosas,Girona,Cataluña,Arrastre,11
@@ -26207,7 +26207,7 @@ ESP000057587,CONCHITA,1997-05-28,4.37,0.59,Madera,7.303333333333331,Baja Definit
 ESP000057588,NITIÑA,1997-05-28,4.0,0.63,Madera,2.94,Baja Definitiva,2000-11-28,Santa Eugenia de Riveira,A Coruña,Galicia,Artes menores,3
 ESP000057589,OBDULIA,1997-05-28,3.9,0.39,Madera,11.03,Baja Definitiva,2005-09-12,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,8
 ESP000057590,MENCHY,1997-05-28,5.8,1.22,Madera,12.797333333333334,Baja Definitiva,2002-03-06,Ferrol,A Coruña,Galicia,Artes menores,4
-ESP000057591,CAROLINA GM,1997-06-02,5.15,0.85,Poliester,22.06,Alta Definitiva,1997-06-02,Cangas,Pontevedra,Galicia,Artes menores,27
+ESP000057591,CAROLINA GM,1997-06-02,5.15,0.85,Poliester,22.06,Alta Definitiva,1997-06-02,Cangas,Pontevedra,Galicia,Artes menores,28
 ESP000057592,JOUS,1997-05-25,3.25,0.36,Madera,1.47,Baja Definitiva,2018-06-20,La Puebla del Caramiñal,A Coruña,Galicia,Artes menores,21
 ESP000057593,BASA,1997-05-28,5.1,1.16,Poliester,11.03,Alta Definitiva,1997-05-28,Cabo de Cruz - Boiro,A Coruña,Galicia,Artes menores,28
 ESP000057594,BALEARES UNO,1997-05-28,5.55,1.1,Poliester,36.76,Alta Definitiva,1997-05-28,Cambados,Pontevedra,Galicia,Artes menores,28
@@ -26465,7 +26465,7 @@ ESP000057917,VICTORIA II,2000-04-25,5.8,0.91,Madera,14.71,Baja Definitiva,2020-0
 ESP000057918,PALOMA,2000-04-26,4.9,0.89,Poliester,3.68,Alta Definitiva,2000-04-26,Cedeira,A Coruña,Galicia,Artes menores,25
 ESP000057920,O CARAVILLAS,2000-04-27,7.0,2.4,Poliester,6.62,Alta Definitiva,2000-05-31,La Guardia,Pontevedra,Galicia,Artes menores,25
 ESP000057921,COBA,2000-05-22,5.5,0.71,Madera,17.454000000000004,Baja Definitiva,2005-11-16,Malpica de Bergantiños,A Coruña,Galicia,Artes menores,5
-ESP000057922,MANOLO,2000-06-01,6.28,1.53,Poliester,14.71,Alta Definitiva,2000-11-16,Corrubedo,A Coruña,Galicia,Artes menores,24
+ESP000057922,MANOLO,2000-06-01,6.28,1.53,Poliester,14.71,Alta Definitiva,2000-11-16,Corrubedo,A Coruña,Galicia,Artes menores,25
 ESP000057923,SIN PENSAR DOS,2000-06-20,6.35,1.57,Poliester,22.0,Alta Definitiva,2023-03-31,Bueu,Pontevedra,Galicia,Artes menores,24
 ESP000057924,TURELA,2000-06-28,5.65,1.02,Poliester,11.03,Alta Definitiva,2001-02-14,Noia,A Coruña,Galicia,Artes menores,24
 ESP000057926,ALERTA DOS,2000-06-29,5.75,0.93,Poliester,14.71,Baja Provisional,2025-01-10,Sanjenjo,Pontevedra,Galicia,Artes menores,24
@@ -26597,7 +26597,7 @@ ESP000058293,O CUACHO,2005-05-11,6.1,1.69,Poliester,11.03,Alta Definitiva,2005-0
 ESP000058294,PLEAMAR DOS,2005-05-11,6.1,1.51,Poliester,29.41,Alta Definitiva,2005-05-11,Ferrol,A Coruña,Galicia,Artes menores,20
 ESP000058297,MOSFIEL DOS,2005-05-26,6.7,1.88,Poliester,29.41,Alta Definitiva,2005-07-07,Corme,A Coruña,Galicia,Artes menores,20
 ESP000058298,CACHOLAS,2005-05-31,6.7,1.99,Poliester,22.06,Baja Definitiva,2022-02-09,Corcubión,A Coruña,Galicia,Artes menores,16
-ESP000058299,AHORA UNO,2005-05-31,6.03,1.52,Poliester,36.76,Alta Definitiva,2005-07-13,Carreira-Aguiño,A Coruña,Galicia,Artes menores,19
+ESP000058299,AHORA UNO,2005-05-31,6.03,1.52,Poliester,36.76,Alta Definitiva,2005-07-13,Carreira-Aguiño,A Coruña,Galicia,Artes menores,20
 ESP000058300,NUEVO SIDORO,2005-06-01,5.1,0.67,Madera,7.894,Alta Definitiva,2015-07-13,Sanlucar De Barrameda,Cádiz,Andalucía,Artes menores,19
 ESP000058301,CHAFALLEIRO,2005-06-06,6.21,1.5,Poliester,22.06,Alta Definitiva,2006-06-22,Combarro,Pontevedra,Galicia,Artes menores,19
 ESP000058302,CARLOS ALBERTO,2005-06-06,6.21,1.52,Poliester,22.06,Alta Definitiva,2007-01-22,Combarro,Pontevedra,Galicia,Artes menores,19
@@ -26676,7 +26676,7 @@ ESP000058412,NUEVA AVELLA,2006-05-10,6.03,1.52,Poliester,11.03,Alta Definitiva,2
 ESP000058414,JOSEFA IGLESIAS,2006-05-17,6.35,1.52,Poliester,22.06,Alta Definitiva,2006-07-04,La Coruña,A Coruña,Galicia,Artes menores,19
 ESP000058416,NUEVO MARAXE,2006-05-25,5.72,1.04,Poliester,7.35,Alta Definitiva,2006-10-13,Bueu,Pontevedra,Galicia,Artes menores,19
 ESP000058417,ROBALUCO UNO,2006-05-26,6.03,1.52,Poliester,22.06,Alta Definitiva,2006-09-04,La Coruña,A Coruña,Galicia,Artes menores,19
-ESP000058418,MARIFE UN,2006-05-31,6.03,1.52,Poliester,11.03,Alta Definitiva,2007-05-08,Aldan-Hio,Pontevedra,Galicia,Artes menores,18
+ESP000058418,MARIFE UN,2006-05-31,6.03,1.52,Poliester,11.03,Alta Definitiva,2007-05-08,Aldan-Hio,Pontevedra,Galicia,Artes menores,19
 ESP000058420,MARU MARU,2006-06-06,6.03,1.52,Poliester,18.38,Baja Provisional,2024-06-27,Cudillero,Asturias,Asturias,Artes menores,18
 ESP000058422,CARAMUXA,2006-06-09,6.1,1.59,Poliester,18.38,Alta Definitiva,2006-06-09,Noia,A Coruña,Galicia,Artes menores,18
 ESP000058425,PLATEIRAS,2006-06-28,6.03,1.25,Poliester,11.03,Alta Definitiva,2006-06-28,Camelle,A Coruña,Galicia,Artes menores,18
@@ -26726,7 +26726,7 @@ ESP000058526,CHELINO,2007-05-11,6.38,1.5,Poliester,22.06,Alta Definitiva,2007-06
 ESP000058527,LUA R,2007-05-21,6.1,1.58,Poliester,22.06,Alta Definitiva,2007-07-04,Corrubedo,A Coruña,Galicia,Artes menores,18
 ESP000058528,RAPOSO DOUS,2007-05-21,6.37,1.51,Poliester,11.03,Alta Definitiva,2011-01-18,La Guardia,Pontevedra,Galicia,Artes menores,18
 ESP000058530,SARISA,2007-05-29,5.49,1.5,Poliester,18.38,Alta Definitiva,2007-09-05,Campelo,Pontevedra,Galicia,Artes menores,18
-ESP000058531,NUEVA TIBURON,2007-05-31,6.37,1.5,Poliester,18.38,Alta Definitiva,2007-09-05,La Guardia,Pontevedra,Galicia,Artes menores,17
+ESP000058531,NUEVA TIBURON,2007-05-31,6.37,1.5,Poliester,18.38,Alta Definitiva,2007-09-05,La Guardia,Pontevedra,Galicia,Artes menores,18
 ESP000058532,FELICIANO,2007-06-05,6.0,0.81,Madera,4.41,Baja Definitiva,2023-07-05,Las Palmas - Puerto de la Luz,Las Palmas,Canarias,Artes menores,16
 ESP000058540,TOJA,2007-07-30,6.02,1.69,Poliester,29.4,Alta Definitiva,2007-07-30,Lage,A Coruña,Galicia,Artes menores,17
 ESP000058541,DELFIN UNO,2007-08-31,6.92,1.96,Poliester,18.38,Alta Definitiva,2007-08-31,Puerto del Son,A Coruña,Galicia,Artes menores,17
@@ -26910,8 +26910,8 @@ ESP000058970,SCRAT,2018-02-05,6.1,1.85,Poliester,22.06,Alta Definitiva,2019-01-2
 ESP000058980,OSIRIS UN,2018-05-17,6.0,1.52,Poliester,18.38,Alta Definitiva,2019-06-11,Noia,A Coruña,Galicia,Artes menores,7
 ESP000058981,MARAFONDO,2018-05-17,6.8,1.53,Poliester,29.41,Alta Definitiva,2020-01-23,Portonovo,Pontevedra,Galicia,Artes menores,7
 ESP000058982,MOU,2018-05-22,6.8,1.74,Poliester,22.06,Alta Definitiva,2020-01-24,Ferrol,A Coruña,Galicia,Artes menores,7
-ESP000058983,PARAGUAY,2018-05-28,5.98,1.5,Poliester,29.42,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,6
-ESP000058984,IAN,2018-05-28,5.98,1.5,Poliester,29.4,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,6
+ESP000058983,PARAGUAY,2018-05-28,5.98,1.5,Poliester,29.42,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,7
+ESP000058984,IAN,2018-05-28,5.98,1.5,Poliester,29.4,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,7
 ESP000058985,ANJU,2018-05-29,5.98,2.03,Poliester,36.8,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,6
 ESP000058986,MARIA UNO,2018-05-31,5.98,1.55,Poliester,14.7,Alta Definitiva,2018-07-02,Deltebre,Tarragona,Cataluña,Artes menores,6
 ESP000058987,JACMAIFER,2018-06-13,5.98,1.55,Poliester,36.77,Alta Definitiva,2018-10-10,San Carlos de la Rápita,Tarragona,Cataluña,Artes menores,6
@@ -27011,7 +27011,7 @@ ESP000100070,PORTO DE MALPICA,2019-04-23,19.0,54.19,Acero,143.38,Alta Definitiva
 ESP000100071,KETAMA,2019-04-23,8.9,3.8,Fibra de Vidrio/Plástico,73.53,Alta Definitiva,2020-03-31,Puerto de Sóller,Illes balears,Illes balears,Artes menores,6
 ESP000100077,IRENE Y BRAIS,2019-05-20,6.1,1.74,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2020-09-21,Cangas,Pontevedra,Galicia,Artes menores,6
 ESP000100078,DANIELA UN,2019-05-20,6.8,1.72,Fibra de Vidrio/Plástico,22.06,Baja Provisional,2025-03-18,El Grove,Pontevedra,Galicia,Artes menores,6
-ESP000100081,PASA AQUI,2019-05-27,22.0,64.08,Fibra de Vidrio/Plástico,447.21,Alta Definitiva,2019-06-21,La Coruña,A Coruña,Galicia,Cerco,5
+ESP000100081,PASA AQUI,2019-05-27,22.0,64.08,Fibra de Vidrio/Plástico,447.21,Alta Definitiva,2019-06-21,La Coruña,A Coruña,Galicia,Cerco,6
 ESP000100082,IYAN-XEL,2019-05-29,12.99,19.99,Fibra de Vidrio/Plástico,95.59,Alta Definitiva,2020-10-27,Candas,Asturias,Asturias,Artes menores,5
 ESP000100083,MEXILLON,2019-06-04,6.2,1.61,Fibra de Vidrio/Plástico,3.68,Alta Definitiva,2024-09-25,Noia,A Coruña,Galicia,Artes menores,5
 ESP000100084,MAYCRIS,2019-06-07,9.95,4.16,Fibra de Vidrio/Plástico,13.24,Alta Definitiva,2020-09-24,Santander,Cantabria,Cantabria,Artes menores,5
@@ -27059,8 +27059,8 @@ ESP000100157,NOVO RAY,2020-04-21,7.4,1.87,Fibra de Vidrio/Plástico,44.12,Alta D
 ESP000100158,WEICH,2020-04-21,6.02,1.6,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2020-12-15,Muros,A Coruña,Galicia,Artes menores,5
 ESP000100160,O TRONADA,2020-05-14,7.78,2.23,Fibra de Vidrio/Plástico,19.12,Alta Definitiva,2021-04-13,Sada,A Coruña,Galicia,Artes menores,5
 ESP000100161,PATY,2020-05-25,6.74,1.87,Fibra de Vidrio/Plástico,22.0,Alta Definitiva,2021-02-24,Camariñas,A Coruña,Galicia,Artes menores,5
-ESP000100162,LEMA,2020-05-27,6.77,2.23,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2021-06-17,Corrubedo,A Coruña,Galicia,Artes menores,4
-ESP000100163,VIRANO DOS,2020-05-27,5.96,1.61,Fibra de Vidrio/Plástico,14.71,Alta Definitiva,2020-11-23,Noia,A Coruña,Galicia,Artes menores,4
+ESP000100162,LEMA,2020-05-27,6.77,2.23,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2021-06-17,Corrubedo,A Coruña,Galicia,Artes menores,5
+ESP000100163,VIRANO DOS,2020-05-27,5.96,1.61,Fibra de Vidrio/Plástico,14.71,Alta Definitiva,2020-11-23,Noia,A Coruña,Galicia,Artes menores,5
 ESP000100164,NUEVO MIÑONES,2020-05-29,20.2,67.91,Acero,139.71,Alta Definitiva,2020-10-22,Camariñas,A Coruña,Galicia,Cerco,4
 ESP000100165,GALERNA UNO,2020-05-29,6.15,1.54,Fibra de Vidrio/Plástico,29.41,Alta Definitiva,2021-02-26,El Grove,Pontevedra,Galicia,Artes menores,4
 ESP000100166,VICTORIA IV,2020-06-08,7.15,0.91,Fibra de Vidrio/Plástico,14.71,Alta Definitiva,2020-10-06,Sanlucar De Barrameda,Cádiz,Andalucía,Artes menores,4
@@ -27186,8 +27186,8 @@ ESP000100341,EL ABUELO COSITA,2022-04-28,7.15,1.06,Fibra de Vidrio/Plástico,11.
 ESP000100343,NOVO MEIXIDES,2022-05-04,11.95,7.49,Fibra de Vidrio/Plástico,35.29,Alta Definitiva,2023-04-14,Cambados,Pontevedra,Galicia,Artes menores,3
 ESP000100344,O LOITADOR,2022-05-11,12.4,10.21,Fibra de Vidrio/Plástico,36.76,Alta Definitiva,2023-03-01,Ferrol,A Coruña,Galicia,Artes menores,3
 ESP000100345,NAVARRO I,2022-05-18,5.98,1.55,Fibra de Vidrio/Plástico,18.4,Alta Definitiva,2023-03-31,Ampolla,Tarragona,Cataluña,Artes menores,3
-ESP000100347,MARAXE,2022-05-26,7.4,2.23,Fibra de Vidrio/Plástico,11.76,Alta Definitiva,2023-06-01,Noia,A Coruña,Galicia,Artes menores,2
-ESP000100348,JARAVINA,2022-05-27,6.3,1.69,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2023-05-31,El Grove,Pontevedra,Galicia,Artes menores,2
+ESP000100347,MARAXE,2022-05-26,7.4,2.23,Fibra de Vidrio/Plástico,11.76,Alta Definitiva,2023-06-01,Noia,A Coruña,Galicia,Artes menores,3
+ESP000100348,JARAVINA,2022-05-27,6.3,1.69,Fibra de Vidrio/Plástico,22.06,Alta Definitiva,2023-05-31,El Grove,Pontevedra,Galicia,Artes menores,3
 ESP000100349,PERCELUX,2022-06-02,7.25,2.17,Fibra de Vidrio/Plástico,11.03,Alta Definitiva,2023-03-31,Bueu,Pontevedra,Galicia,Artes menores,2
 ESP000100351,MANU DOS,2022-06-08,7.48,2.96,Fibra de Vidrio/Plástico,18.0,Alta Definitiva,2023-06-15,Cangas,Pontevedra,Galicia,Artes menores,2
 ESP000100352,NUEVO MAR ABIERTO,2022-06-15,11.0,8.46,Acero,36.76,Alta Definitiva,2023-06-20,Gijon,Asturias,Asturias,Artes menores,2
