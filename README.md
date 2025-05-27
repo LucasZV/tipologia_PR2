@@ -1,5 +1,5 @@
 # Tipología y ciclo de vida de los datos: 
-# PR2: ¿Cómo realizar la limpieza y análiis de los datos?
+# PR2: ¿Cómo realizar la limpieza y análisis de los datos?
 
 ## Descripción 
 
