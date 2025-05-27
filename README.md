@@ -64,8 +64,8 @@ En este proyecto analizamos un conjunto de datos técnico-administrativos de la 
     - Eliminación de identificadores y columnas no relevantes
     - Entrenamiento de 4 modelos base
     - Optimización del mejor modelo
-    - Diagnosisi del modelo
-    - Modelado redes neuronales densas (deep learning)
+    - Diagnosis del modelo
+    - Modelado redes neuronales de capas densas (deep learning)
     - Comparativa de modelos
     - Representación de resultados y errores
   
