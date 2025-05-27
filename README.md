@@ -6,33 +6,29 @@
 En este proyecto analizamos un conjunto de datos técnico-administrativos de la flota pesquera española desde 1987 hasta 2025, utilizando identificadores únicos para garantizar la trazabilidad de cada buque. El objetivo es estudiar la evolución histórica, estructura y distribución geográfica de la flota, identificando patrones en características como tamaño, potencia, antigüedad y modalidad de pesca, para apoyar la toma de decisiones en gestión, sostenibilidad y modernización del sector pesquero.
 
 ## Estructura del Proyecto
+- **./**
+  - `README.md`: Archivo de documentación del proyecto.
+  - `requirements.txt`: Lista de dependencias necesarias para la ejecución.
+  - `LICENSE.txt`: Licencia bajo la que se distribuye el dataset generado.
 
-- **data/**: Contiene los datos generados en la PR1, y los limpios de la PR2.
+- **./data/**: Contiene los datos generados en la PR1, y los limpios de la PR2.
   - `datos_buques_ESP.csv`: Archivo CSV con los datos extraídos del registro europeo.
   - `data_clean`: Archivo CSV con los datos limpios y listos para el análisis.
     
-- **memoria/**: Informes de la PR2.
+- **./memoria/**: Informes de la PR2.
   - `PR2_Ubeda_Quesada_Julio-Zamora_Vera_Lucas.pdf`: Documento de la memoria del proyecto.
 
-    
-- **figues/**: Gráficos de la PR2.
-  - `boxplots.png`: Boxplots para la visualizacion de outliers.
-  - `histogramas_frecuencias_esl-arq-pot.png`: Distribución del numero de buque por caracteristicas tecnicas del buque.
-  - `histogramas_edadbuque.png`: Distribución del numero de buques por edad.
-  - `lineplot_evolucion_esl-arq-pot.png`: Evolución temporal de las caracteristicas tecnicas del buque.
-  - `correlacion_heatmap.png`: Matriz de correlacion de las variables numericas.
-  - Grafico modelo
-  - Grafico modelo
-  - ...
+- **./figues/**: Gráficos generados de la PR2.
 
-- **output/**: Gráficos de la PR2.
-  - `modelo_supervisado.pkl`: Arhico pkl del modelo.
+- **./output/**: Archivos resultantes de la PR2.
+  - `modelo_supervisado.pkl`: Archivo pkl del modelo.
+  - `modelo_no_supervisado.pkl`: Archivo pkl del modelo.
+  - `EstadisticasDescriptivas.cvs`: Dataset descriptivo de las variables.
+  - `resultados_cluster`: Dataset con clusters asignados a las embarcaciones.
 
-- **src/**: Código fuente.
-  - `limpieza-analisis_datos.ipynb`: Jupyter notebook de pruebas.
-  - `README.md`: Archivo de documentación del proyecto.
-  - `requirements.txt`: Lista de dependencias necesarias.
-  - `LICENSE.txt`: Licencia bajo la que se distribuye el dataset generado.
+- **./src/**: Código fuente.
+  - `limpieza-datos_V2.ipynb`: Jupyter notebook de la limpieza y análisis de los datos.
+  - `Modelado.ipynb`: Jupyter notebook con el proceso de modelado y contraste de hipótesis
     
 ## Pasos seguidos en la limpieza:
 
